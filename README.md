@@ -13,7 +13,7 @@ semantic-release-configuration contains the semantic-release configuration.
 ## Installation
 
 ```shell
-$ npm install @anders1101/semantic-release-configuration
+$ npm install @anders1101/semantic-release-configuration --save-dev
 ```
 
 The following semantic-release components are included by default, so you don't have to install them:
