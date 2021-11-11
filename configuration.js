@@ -11,7 +11,6 @@ const configuration = {
         { type: 'docs', release: false, description: 'Documentation only changes' },
         { type: 'feat', release: 'minor', description: 'A new feature' },
         { type: 'fix', release: 'patch', description: 'A bug fix' },
-        { type: 'force', release: 'patch', description: 'Force a new patch version' },
         { type: 'perf', release: 'patch', description: 'A code change that improves performance' },
         { type: 'refactor', release: false, description: 'A code change that neither fixes a bug nor adds a feature' },
         { type: 'style', release: false, description: 'Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)' },
