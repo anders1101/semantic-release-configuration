@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/anders1101/semantic-release-configuration/compare/1.0.1...1.0.2) (2021-11-11)
+
+
+### Performance Improvements
+
+* force new version number ([188e210](https://github.com/anders1101/semantic-release-configuration/commit/188e2105b04dc30935e89f2c965ea10fa5deaaec))
+
 ## [1.0.1](https://github.com/anders1101/semantic-release-configuration/compare/1.0.0...1.0.1) (2021-11-11)
 
 
