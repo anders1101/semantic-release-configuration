@@ -28,7 +28,7 @@ To use this configurations, create a `.releaserc.json` file in your project and 
 
 ```json
 {
-  "extends": "semantic-release-configuration"
+  "extends": "@anders1101/semantic-release-configuration"
 }
 ```
 
