@@ -1,5 +1,5 @@
 {
-  "name": "semantic-release-configuration",
+  "name": "@anders1101/semantic-release-configuration",
   "version": "0.0.0",
   "description": "semantic-release-configuration contains the semantic-release configuration.",
   "contributors": [
@@ -7,7 +7,7 @@
       "name": "anders1101"
     }
   ],
-  "private": true,
+  "private": false,
   "main": "configuration.js",
   "types": "",
   "dependencies": {
