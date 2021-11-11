@@ -1,0 +1,35 @@
+{
+  "name": "semantic-release-configuration",
+  "version": "0.0.0",
+  "description": "semantic-release-configuration contains the semantic-release configuration.",
+  "contributors": [
+    {
+      "name": "anders1101"
+    }
+  ],
+  "private": true,
+  "main": "configuration.js",
+  "types": "",
+  "dependencies": {
+    "@semantic-release/changelog": "6.0.1",
+    "@semantic-release/git": "10.0.1",
+    "semantic-release": "18.0.0"
+  },
+  "devDependencies": {
+    "roboter": "12.5.0"
+  },
+  "scripts": {},
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anders1101/semantic-release-configuration.git"
+  },
+  "keywords": [
+    "semantic-release"
+  ],
+  "license": "MIT"
+}

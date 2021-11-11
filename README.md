@@ -6,7 +6,7 @@ semantic-release-configuration contains the semantic-release configuration.
 
 | Category         | Status                                                                                                                                                                                   |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Version          | [![npm](https://img.shields.io/npm/v/semantic-release-configuration)](https://www.npmjs.com/package/semantic-release-configuration)                                                      |
+| Version          | [![npm](https://img.shields.io/npm/v/@anders1101/semantic-release-configuration)](https://www.npmjs.com/package/@anders1101/semantic-release-configuration)                                                      |
 | Build            | ![GitHub Actions](https://github.com/anders1101/semantic-release-configuration/workflows/Release/badge.svg?branch=main)                                                                           |
 | License          | ![GitHub](https://img.shields.io/github/license/anders1101/semantic-release-configuration)                                                                                             |
 
