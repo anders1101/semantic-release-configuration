@@ -28,6 +28,9 @@
     "type": "git",
     "url": "git://github.com/anders1101/semantic-release-configuration.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "semantic-release"
   ],
