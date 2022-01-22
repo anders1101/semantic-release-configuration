@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/anders1101/semantic-release-configuration/compare/1.0.2...1.0.3) (2022-01-22)
+
+
+### Bug Fixes
+
+* bump semantic-release from 18.0.0 to 18.0.1 ([6be5645](https://github.com/anders1101/semantic-release-configuration/commit/6be5645acc7a1816e8fac200b8e842da2dda910e))
+
 ## [1.0.2](https://github.com/anders1101/semantic-release-configuration/compare/1.0.1...1.0.2) (2021-11-11)
 
 
